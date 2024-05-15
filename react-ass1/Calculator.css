@@ -1,0 +1,28 @@
+/* Calculator.css */
+.calculator {
+    margin: 50px auto;
+    width: 300px;
+    text-align: center;
+  }
+  
+  input[type='number'] {
+    width: 100px;
+    margin: 10px;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 8px 15px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
